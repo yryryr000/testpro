@@ -23,6 +23,7 @@ namespace WpfAppTest1
             Data.Add("aaa");
             Data.Add("bbb");
             Data.Add("ccc");
+            Data.Add("ddd");
         }
         
         public ObservableCollection<string> Data { get; set; }
